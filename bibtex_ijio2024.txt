@@ -1,0 +1,9 @@
+@article{allende2024drivers,
+  title={Drivers of public procurement prices: Evidence from pharmaceutical markets},
+  author={Allende, Claudia and Atal, Juan Pablo and Carril, Rodrigo and Cuesta, Jos{\'e} Ignacio and Gonz{\'a}lez-Lira, Andr{\'e}s},
+  journal={International Journal of Industrial Organization},
+  volume={96},
+  pages={103086},
+  year={2024},
+  publisher={Elsevier}
+}
