@@ -1,0 +1,10 @@
+@article{carril2026competition,
+  title={Competition under incomplete contracts and the design of procurement policies},
+  author={Carril, Rodrigo and Gonzalez-Lira, Andres and Walker, Michael S},
+  journal={American Economic Review},
+  volume={116},
+  number={2},
+  pages={535--581},
+  year={2026},
+  publisher={American Economic Association 2014 Broadway, Suite 305, Nashville, TN 37203}
+}
