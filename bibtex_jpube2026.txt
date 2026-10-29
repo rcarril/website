@@ -1,0 +1,13 @@
+@article{carril2026setasides,
+title = {The impact of preference programs in public procurement: Evidence from veteran set-asides},
+journal = {Journal of Public Economics},
+volume = {263},
+pages = {105805},
+year = {2026},
+issn = {0047-2727},
+doi = {https://doi.org/10.1016/j.jpubeco.2026.105805},
+url = {https://www.sciencedirect.com/science/article/pii/S0047272726002410},
+author = {Rodrigo Carril and Audrey Guo},
+keywords = {Procurement, Veterans, Preference programs, Set-asides},
+abstract = {Veteran-owned businesses receive preferential treatment in procurement by the U.S. Department of Veterans Affairs, the largest civilian federal agency by procurement spending. We study a 2016 Supreme Court ruling that expanded the scope of these set-asides and estimate its effects on targeted firms and procurement outcomes. The ruling increased the share of purchase order contracts awarded to service-disabled veteran-owned small businesses. Gains accrued both to incumbent vendors and to first-time VA contractors, including firms that had previously registered but had not won federal awards. We find little evidence of changes in competition for awards, and no significant impact on contract execution performance. The results suggest that, in commercial procurement markets with relatively low barriers to entry, set-asides can expand access for targeted firms without detectable deterioration in government procurement outcomes.}
+}
